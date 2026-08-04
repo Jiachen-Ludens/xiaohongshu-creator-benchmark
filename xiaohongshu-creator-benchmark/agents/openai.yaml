@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书博主对标分析"
+  short_description: "用公开数据拆解小红书博主的成功机制、作品差异与复制边界"
+  default_prompt: "Use $xiaohongshu-creator-benchmark to research why this Xiaohongshu creator succeeds and write an evidence-based benchmark report."

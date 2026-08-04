@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+PROGRESS.md
+BLOCKED.md
+release-check-temp*

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "data": {
+      "userid": "synthetic-user-001",
+      "red_id": "synthetic_creator",
+      "nickname": "合成示例博主",
+      "desc": "六年内容经验，多个账号增长结果，均为创作者自述。",
+      "fans": 50000,
+      "note_num_stat": {
+        "posted": 100,
+        "liked": 500000,
+        "collected": 300000
+      },
+      "ip_location": "Beijing"
+    }
+  }
+}

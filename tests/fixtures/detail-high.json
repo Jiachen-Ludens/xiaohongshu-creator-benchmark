@@ -1,0 +1,21 @@
+{
+  "data": {
+    "data": [
+      {
+        "note_list": [
+          {
+            "id": "note-19",
+            "title": "高表现 19",
+            "desc": "先展示真实结果，再解释旧流程痛点，随后给出输入、操作、中间产物、结果和失败限制，最后完成一个具体工作流。",
+            "type": "normal",
+            "liked_count": 1900,
+            "collected_count": 950,
+            "comments_count": 190,
+            "shared_count": 95,
+            "images_list": [{},{},{},{},{},{},{},{},{}]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "data": {
+    "data": [
+      {
+        "note_list": [
+          {
+            "id": "note-01",
+            "title": "低表现 01",
+            "desc": "内容主要重复机会口号，并预告未来会讲什么，当条没有解决一个具体任务。",
+            "type": "normal",
+            "liked_count": 100,
+            "collected_count": 50,
+            "comments_count": 10,
+            "shared_count": 5,
+            "images_list": [{}]
+          }
+        ]
+      }
+    ]
+  }
+}

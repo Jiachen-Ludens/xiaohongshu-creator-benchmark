@@ -1,0 +1,15 @@
+{
+  "data": {
+    "data": {
+      "comments": [
+        {"content":"我实际用了一个月，这个流程确实省时间。","like_count":12,"sub_comment_count":2},
+        {"content":"这个场景最终是否还需要人工确认？","like_count":7,"sub_comment_count":1},
+        {"content":"@朋友 你正好可以试试。","like_count":3,"sub_comment_count":0},
+        {"content":"我觉得结论太乐观，样本还不够。","like_count":10,"sub_comment_count":4}
+      ],
+      "comment_count": 16,
+      "has_more": true,
+      "current_sort_strategy": "latest_v2"
+    }
+  }
+}
